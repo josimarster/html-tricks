@@ -1,17 +1,17 @@
 # HTML-Tricks
 
-Bem-vindo ao nosso repositório "HTML-Tricks" no GitHub! Aqui, você encontrará uma coleção de snippets de código CSS e HTML, perfeitos para quem está aprendendo Front-End ou para aqueles que precisam de referências rápidas e soluções prontas.
+Welcome to our **"HTML-Tricks"** repository on GitHub! Here, you'll find a collection of CSS and HTML code snippets, perfect for those who are learning Front-End or for those who need quick references and ready-made solutions.
 
-## Como Usar
+## How to Use
 
-- **Navegue pelo Repositório**: Localize o snippet de que você precisa.
+- **Browse the Repository**: Locate the snippet you need.
 
-- **Copie o código**: Copie o código e utilize os snippets em seus projetos.
+- **Copy the Code**: Copy the code and use the snippets in your projects.
 
-- **Contribua**: Se você tiver melhorias, correções ou snippets para compartilhar, envie um pull request. Adoramos colaborações!
+- **Contribute**: If you have improvements, corrections, or snippets to share, please submit a pull request. We love collaborations!
 
-## Explore, Aprenda e Crie!
+## Explore, Learn, and Create!
 
-Explore nosso repositório "HTML-Tricks," utilize os snippets de código e lembre-se de que a jornada de aprendizado nunca termina. Estamos aqui para ajudá-lo a se tornar um desenvolvedor Front-End ainda melhor. Divirta-se programando! 🚀
+Explore our **"HTML-Tricks"** repository, use the code snippets, and remember that the learning journey never ends. We are here to help you become an even better Front-End developer. Enjoy coding! 🚀
 
-Acesse o repositório [aqui](https://github.com/josimarster/html-tricks).
+Access the repository [here](https://github.com/josimarster/html-tricks).
